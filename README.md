@@ -5,10 +5,12 @@ Welcome to my github, my name is Filipe from Portugal 🇵🇹
 * 🌱 I’m currently learning Golang 
 * 💬 Ask me about Node.js | Javascript | .NET (Core) | React
 
-## Latest repository
-
+💻 Latest repository 
 * https://github.com/fcancelinha/fullstackopen-2021
 
+📚 Books I'm reading
+* [BlockChain Revolution](https://www.goodreads.com/book/show/25894041-blockchain-revolution)
+* [Learning Go Latest](https://miek.nl/files/go/Learning-Go-latest.pdf)
 
 
 <!--
