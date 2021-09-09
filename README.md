@@ -6,7 +6,7 @@ Welcome to my github, my name is Filipe from Portugal 🇵🇹
 * 💬 Ask me about Node.js | Javascript | .NET (Core) | React
 
 💻 Latest repository 
-* https://github.com/fcancelinha/fullstackopen-2021
+* https://github.com/fcancelinha/crypto-profit
 
 📚 Books I'm reading
 * [BlockChain Revolution](https://www.goodreads.com/book/show/25894041-blockchain-revolution)
