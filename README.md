@@ -13,18 +13,17 @@
 
 <h3 align="center">💻 Working on</h3>
 
-<ul align="center">
+<p align="center">
    <a href="https://github.com/fcancelinha/crypto-profit">Crypto Profit App</a>
-</ul>
+</p>
 
 
 <h3 align="center">📚 Books I'm reading </h3>
 
-<ul align="center">
-   <a href="https://www.goodreads.com/book/show/25894041-blockchain-revolution">BlockChain Revolution</a>
-   
+<p align="center">
+   <a href="https://www.goodreads.com/book/show/25894041-blockchain-revolution">BlockChain Revolution</a> | 
    <a href="https://miek.nl/files/go/Learning-Go-latest.pdf">Learning Go Latest</a>
-</ul>
+</p>
 
 
 
