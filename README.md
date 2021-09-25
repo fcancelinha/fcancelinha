@@ -1,28 +1,30 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> ! I'm Phillip</h1>
 <h4 align="center">A software engineer 😅 from Portugal</h4>
-   
+  
+<h6 align="center"> Open-source enthusiast and blockchain fan, you can usually catch me coding at night or surfing gnarly waves🏄 in the morning!</h6>
+<p align="center">💬 Ask me about Node.js | Javascript | GO | React </p> 
+<p align="center">🌱 I’m currently learning Golang  </p> 
 
-
-#### About me
 ---
 
-* 🏄 Avid surfer and ₿ cryptocurrency enthusiast
-* 🌱 I’m currently learning Golang 
-* 💬 Ask me about Node.js | Javascript | GO | React
+<h5 align="center">💻 Working on</h5>
+
+<ul align="center">
+   <a href="https://github.com/fcancelinha/crypto-profit">Crypto Profit App</a>
+</ul>
 
 
-***
-💻 Stuff I'm currently working on
-* https://github.com/fcancelinha/crypto-profit
+<h5 align="center">📚 Books I'm reading </h5>
+
+<ul align="center">
+   <a href="https://www.goodreads.com/book/show/25894041-blockchain-revolution">BlockChain Revolution</a>
+   
+   <a href="https://miek.nl/files/go/Learning-Go-latest.pdf">Learning Go Latest</a>
+</ul>
 
 
-***
-📚 Books I'm reading
-* [BlockChain Revolution](https://www.goodreads.com/book/show/25894041-blockchain-revolution)
-* [Learning Go Latest](https://miek.nl/files/go/Learning-Go-latest.pdf)
+<h5 align="center">🖥️ Languages</h5>
 
-
-<h4 align="center">Languages and Tools:</h4>
 <p align="center"> 
 <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="30" height="30"/> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
@@ -32,18 +34,3 @@
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
 </p>
-
-<!--
-**fcancelinha/fcancelinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
