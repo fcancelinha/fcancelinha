@@ -6,14 +6,14 @@
 
 ---
 
-<h4 align="center">💻 Working on</h4>
+<h3 align="center">💻 Working on</h3>
 
 <ul align="center">
    <a href="https://github.com/fcancelinha/crypto-profit">Crypto Profit App</a>
 </ul>
 
 
-<h4 align="center">📚 Books I'm reading </h4>
+<h3 align="center">📚 Books I'm reading </h3>
 
 <ul align="center">
    <a href="https://www.goodreads.com/book/show/25894041-blockchain-revolution">BlockChain Revolution</a>
@@ -23,7 +23,7 @@
 
 
 
-<h4 align="center">🖥️ Languages</h4>
+<h3 align="center">🖥️ Languages</h3>
 
 <p align="center"> 
 <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="30" height="30"/> 
