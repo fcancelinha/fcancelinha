@@ -21,7 +21,7 @@
    <a href="https://miek.nl/files/go/Learning-Go-latest.pdf">Learning Go Latest</a>
 </ul>
 
----
+
 
 <h4 align="center">🖥️ Languages</h4>
 
@@ -34,3 +34,6 @@
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
 </p>
+
+  
+  ---
