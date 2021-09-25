@@ -3,7 +3,7 @@
 Welcome to my github, my name is Filipe from Portugal 🇵🇹
 
 * 🌱 I’m currently learning Golang 
-* 💬 Ask me about Node.js | Javascript | .NET (Core) | React
+* 💬 Ask me about Node.js | Javascript | GO | React
 
 💻 Latest repository 
 * https://github.com/fcancelinha/crypto-profit
