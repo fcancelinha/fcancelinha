@@ -4,14 +4,19 @@
 
 
 #### About me
+---
 
 * 🏄 Avid surfer and ₿ cryptocurrency enthusiast
 * 🌱 I’m currently learning Golang 
 * 💬 Ask me about Node.js | Javascript | GO | React
 
-💻 Latest repository 
+
+***
+💻 Stuff I'm currently working on
 * https://github.com/fcancelinha/crypto-profit
 
+
+***
 📚 Books I'm reading
 * [BlockChain Revolution](https://www.goodreads.com/book/show/25894041-blockchain-revolution)
 * [Learning Go Latest](https://miek.nl/files/go/Learning-Go-latest.pdf)
