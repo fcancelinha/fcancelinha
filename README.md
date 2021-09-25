@@ -2,18 +2,18 @@
 <h4 align="center">A software engineer 😅 from Portugal</h4>
   
 <h6 align="center"> Open-source enthusiast and blockchain fan, you can usually catch me coding at night or surfing gnarly waves🏄 in the morning!</h6>
-<p align="center">🌱 I’m currently learning Golang  </p> 
+
 
 ---
 
-<h5 align="center">💻 Working on</h5>
+<h4 align="center">💻 Working on</h4>
 
 <ul align="center">
    <a href="https://github.com/fcancelinha/crypto-profit">Crypto Profit App</a>
 </ul>
 
 
-<h5 align="center">📚 Books I'm reading </h5>
+<h4 align="center">📚 Books I'm reading </h4>
 
 <ul align="center">
    <a href="https://www.goodreads.com/book/show/25894041-blockchain-revolution">BlockChain Revolution</a>
@@ -23,7 +23,7 @@
 
 ---
 
-<h5 align="center">🖥️ Languages</h5>
+<h4 align="center">🖥️ Languages</h4>
 
 <p align="center"> 
 <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="30" height="30"/> 
