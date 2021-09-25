@@ -2,7 +2,6 @@
 <h4 align="center">A software engineer 😅 from Portugal</h4>
   
 <h6 align="center"> Open-source enthusiast and blockchain fan, you can usually catch me coding at night or surfing gnarly waves🏄 in the morning!</h6>
-<p align="center">💬 Ask me about Node.js | Javascript | GO | React </p> 
 <p align="center">🌱 I’m currently learning Golang  </p> 
 
 ---
