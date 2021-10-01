@@ -11,21 +11,21 @@
 
 ---
 
-<h4 align="center">💻 Working on</h4>
+<h3 align="center">💻 Working on</h3>
 
 <p align="center">
    <a href="https://github.com/fcancelinha/crypto-profit">Crypto Profit App</a>
 </p>
 
 
-<h4 align="center">📚 Books I'm reading </h4>
+<h3 align="center">📚 Books I'm reading </h3>
 
 <p align="center">
    <a href="https://www.goodreads.com/book/show/25894041-blockchain-revolution">BlockChain Revolution</a> | 
    <a href="https://miek.nl/files/go/Learning-Go-latest.pdf">Learning Go Latest</a>
 </p>
 
-<h4 align="center">🖥️ Languages</h4>
+<h3 align="center">🖥️ Languages</h3>
 
 <p align="center"> 
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go" width="60" height="30"/>&nbsp;
