@@ -25,7 +25,7 @@
    <a href="https://miek.nl/files/go/Learning-Go-latest.pdf">Learning Go Latest</a>
 </p>
 
-<h3 align="center">🌐 Languages</h3>
+<h3 align="center">🌐 Tools</h3>
 
 <p align="center"> 
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go" width="60" height="30"/>&nbsp;
