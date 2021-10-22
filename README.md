@@ -18,7 +18,7 @@
 </p>
 
 
-<h3 align="center">📚 Books I'm reading </h3>
+<h3 align="center">📚 Currently reading </h3>
 
 <p align="center">
    <a href="https://www.goodreads.com/book/show/25894041-blockchain-revolution">BlockChain Revolution</a> | 
