@@ -37,7 +37,3 @@
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="linux" width="100" height="27"/>&nbsp;
   <img src="https://img.shields.io/badge/git-C13416?style=for-the-badge&logo=git&logoColor=white" alt="git" width="60" height="27"/>&nbsp;
 </p>
-
----
-
-
