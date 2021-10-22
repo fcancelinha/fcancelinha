@@ -14,9 +14,7 @@
 <h3 align="center">💻 Working on</h3>
 
 <p align="center">
-  <ul>
-    <li>  <a href="https://github.com/fcancelinha/crypto-profit">Crypto Profit App</a></li>
-  </ul>
+   • <a href="https://github.com/fcancelinha/crypto-profit">Crypto Profit</a> •
 </p>
 
 
