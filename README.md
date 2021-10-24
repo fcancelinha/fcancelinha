@@ -21,8 +21,8 @@
 <h3 align="center">📚 Currently reading </h3>
 
 <p align="center">
-   <a href="https://www.goodreads.com/book/show/25894041-blockchain-revolution">BlockChain Revolution</a> | 
-   <a href="https://miek.nl/files/go/Learning-Go-latest.pdf">Learning Go Latest</a>
+   <a align="center" href="https://www.goodreads.com/book/show/25894041-blockchain-revolution">BlockChain Revolution</a> <br> 
+   <a align="center" href="https://miek.nl/files/go/Learning-Go-latest.pdf">Learning Go Latest</a>
 </p>
 
 <h3 align="center">🛠️ Tools</h3>
