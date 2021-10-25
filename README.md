@@ -22,7 +22,7 @@
 
 <p align="center">
    <a align="center" href="https://www.goodreads.com/book/show/25894041-blockchain-revolution">BlockChain Revolution</a> <br> 
-   <a align="center" href="https://miek.nl/files/go/Learning-Go-latest.pdf">Learning Go Latest</a>
+     <a align="center" href="https://en.wikipedia.org/wiki/As_a_Man_Thinketh">As Man Thinketh</a>
 </p>
 
 <h3 align="center">🛠️ Tools</h3>
