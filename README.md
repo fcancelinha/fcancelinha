@@ -9,24 +9,9 @@
 </h6>
 
 
-<h2 align="center"></h2>
-
-<h3 align="center">💻 Working on</h3>
 
 
-<p align="center">
-   • <a href="https://github.com/fcancelinha/crypto-profit">Crypto Profit</a> •
-</p>
-
-
-<h3 align="center">📚 Currently reading </h3>
-
-<p align="center">
-   <a align="center" href="https://www.goodreads.com/book/show/25894041-blockchain-revolution">BlockChain Revolution</a> <br> 
-     <a align="center" href="https://en.wikipedia.org/wiki/As_a_Man_Thinketh">As Man Thinketh</a>
-</p>
-
-<h3 align="center">🛠️ Tools</h3>
+<h3 align="center">Tools</h3>
 
 <p align="center"> 
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go" width="55" height="27"/>&nbsp;
@@ -37,4 +22,21 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" width="80" height="27"/>&nbsp;
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="linux" width="100" height="27"/>&nbsp;
   <img src="https://img.shields.io/badge/git-C13416?style=for-the-badge&logo=git&logoColor=white" alt="git" width="60" height="27"/>&nbsp;
+</p>
+
+<h2 align="center"></h2>
+
+<h3 align="center">Working on</h3>
+
+
+<p align="center">
+   • <a href="https://github.com/fcancelinha/crypto-profit">Crypto Profit</a> •
+</p>
+
+
+<h3 align="center">Currently reading </h3>
+
+<p align="center">
+   <a align="center" href="https://www.goodreads.com/book/show/25894041-blockchain-revolution">BlockChain Revolution</a> <br> 
+     <a align="center" href="https://en.wikipedia.org/wiki/As_a_Man_Thinketh">As Man Thinketh</a>
 </p>
