@@ -35,11 +35,3 @@
    <a align="center" href="https://www.goodreads.com/book/show/25894041-blockchain-revolution">BlockChain Revolution</a> <br> 
      <a align="center" href="https://en.wikipedia.org/wiki/As_a_Man_Thinketh">As Man Thinketh</a>
 </p>
-
-<h2 align="center">👨‍💻 Learning </h3>
-
-<p align="center">
-    • Golang
-  <br>
-    • CI / CD
-</p>
