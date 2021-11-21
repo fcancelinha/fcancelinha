@@ -21,9 +21,7 @@
   <img src="https://img.shields.io/badge/git-C13416?style=for-the-badge&logo=git&logoColor=white" alt="git" width="60" height="27"/>&nbsp;
 </p>
 
-<h2 align="center"></h2>
-
-<h3 align="center">Working on</h3>
+<h2 align="center">🖥️ Latest Project</h3>
 
 
 <p align="center">
@@ -31,9 +29,17 @@
 </p>
 
 
-<h3 align="center">Currently reading </h3>
+<h2 align="center">🔖 Reading </h3>
 
 <p align="center">
    <a align="center" href="https://www.goodreads.com/book/show/25894041-blockchain-revolution">BlockChain Revolution</a> <br> 
      <a align="center" href="https://en.wikipedia.org/wiki/As_a_Man_Thinketh">As Man Thinketh</a>
+</p>
+
+<h2 align="center">👨‍💻 Learning </h3>
+
+<p align="center">
+    • Golang
+  <br>
+    • CI / CD
 </p>
