@@ -25,7 +25,7 @@
 
 
 <p align="center">
-   • <a href="https://github.com/fcancelinha/crypto-profit">Crypto Profit</a> •
+   • <a href="https://fcancelinha.github.io/crypto-profit/">Crypto Profit</a> •
 </p>
 
 
