@@ -8,8 +8,6 @@
 
 </h6>
 
-<br>
-
 <h2 align="center">🖥️ Latest Project</h3>
 
 
