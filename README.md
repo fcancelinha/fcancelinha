@@ -14,11 +14,3 @@
 <p align="center">
    • <a href="https://fcancelinha.github.io/crypto-profit/">Crypto Profit</a> •
 </p>
-
-
-<h2 align="center">🔖 Reading </h3>
-
-<p align="center">
-   <a align="center" href="https://www.goodreads.com/book/show/25894041-blockchain-revolution">BlockChain Revolution</a> <br> 
-     <a align="center" href="https://en.wikipedia.org/wiki/As_a_Man_Thinketh">As Man Thinketh</a>
-</p>
