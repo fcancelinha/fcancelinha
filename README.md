@@ -12,5 +12,5 @@
 
 
 <p align="center">
-   • <a href="https://fcancelinha.github.io/crypto-calculator/">Crypto Profit</a> •
+   • <a href="https://fcancelinha.github.io/crypto-profit-calculator/">Crypto Profit</a> •
 </p>
