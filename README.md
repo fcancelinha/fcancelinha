@@ -2,7 +2,7 @@
 <h4 align="center">A software developer 😅 from Portugal</h4>
   
 <h6 align="center"> 
-  Open-source enthusiast and blockchain fan, you can usually catch me coding at night or surfing gnarly waves🏄 in the morning! 
+  Open-source enthusiast currently interested in GO, you can usually catch me coding at night or surfing gnarly waves🏄 in the morning! 
   
   this github is a collection of personal projects and course projects
 
