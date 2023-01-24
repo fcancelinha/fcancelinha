@@ -41,4 +41,7 @@
   <span>
     <img alt="x-mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" title="MongoDB" />
   </span>
+   <span>
+     <img alt="x-Apple" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" title="Apple" />
+  </span>
 </div>
