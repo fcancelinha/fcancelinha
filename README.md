@@ -14,7 +14,7 @@
    • <a href="https://fcancelinha.github.io/crypto-profit-calculator/">Crypto Profit</a> •
 </p>
 
-<h2 align="center">🔖 Tech</h2>
+<h2 align="center">🧰 Tech</h2>
 
 <div align="center" text-align="center">
   <span>
