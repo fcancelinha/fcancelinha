@@ -23,7 +23,7 @@
 <h3 align="center">🚧 Projects 🚧</h3>
 
 <p align="center">
-   • <a href="https://fcancelinha.github.io/crypto-profit-calculator">Crypto Profit</a> •
+   • <a href="https://github.com/fcancelinha/crypto-profit-calculator">Crypto Profit</a> •
 </p>
 
 <h3 align="center">🧰 Tech</h3>
