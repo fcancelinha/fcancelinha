@@ -8,17 +8,6 @@
 </h6>
 
 <h2/>
-<h2 align="center"> 
- 
-  
-  Social
-  
-  <div align="center">
-  <a href="https://www.linkedin.com/in/fcancelinha/" target="_blank" rel="noreferrer">
-    <img alt="x-linkedin" height="30" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
-  </a>
-</div>
-</h2>
 
 <h3 align="center">🚧 Projects 🚧</h3>
 
