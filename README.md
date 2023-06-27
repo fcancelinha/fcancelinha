@@ -1,19 +1,13 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px"> ! I'm Filipe</h1>
-<h5 align="center">A software developer from Portugal 🇵🇹</h4>
+<h4 align="center">A software developer from Portugal 🇵🇹</h4>
   
-<h6 align="center"> 
+<h5 align="center"> 
   Currently interested in learning GO, you can usually catch me coding at night or surfing gnarly waves in the morning! 
   
   This github is a collection of personal projects and course projects!
 </h6>
 
-<h2/>
-
-<h3 align="center">🚧 Projects 🚧</h3>
-
-<p align="center">
-   • <a href="https://github.com/fcancelinha/crypto-profit-calculator">Crypto Profit</a> •
-</p>
+<h5/>
 
 <h3 align="center">🧰 Tech</h3>
 
@@ -36,13 +30,7 @@
   <span>
     <img alt="x-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" />
   </span>
-  <span>
-    <img alt="x-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" />
-  </span>
-  <span>
-    <img alt="x-mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" title="MongoDB" />
-  </span>
-   <span>
-     <img alt="x-Apple" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" title="Apple" />
+    <span>
+    <img alt="x-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" />
   </span>
 </div>
