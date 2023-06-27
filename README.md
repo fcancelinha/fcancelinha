@@ -9,7 +9,7 @@
 
 <h5/>
 
-<h3 align="center">🧰 Tech</h3>
+<h1></h1>
 
 <div align="center" text-align="center">
   <span>
@@ -30,7 +30,10 @@
   <span>
     <img alt="x-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" />
   </span>
+  <span>
+    <img alt="x-kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" />
+  </span>
     <span>
-    <img alt="x-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" />
+    <img alt="x-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" title="Linux" />
   </span>
 </div>
