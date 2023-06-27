@@ -19,6 +19,9 @@
     <img alt="x-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" />
   </span>
   <span>
+    <img alt="x-denojs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original-wordmark.svg" title="DenoJS" />
+  </span>
+  <span>
      <img alt="x-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" />
   </span>
   <span>
