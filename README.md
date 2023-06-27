@@ -1,5 +1,5 @@
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px"> ! I'm Phillip</h1>
-<h4 align="center">A software developer from Portugal 🇵🇹</h4>
+<h4 align="center">A software engineer from Portugal 🇵🇹</h4>
   
 <h5 align="center"> 
   Currently learning GO, you can usually catch me coding at night or surfing gnarly waves in the morning! 
