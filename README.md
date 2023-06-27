@@ -2,9 +2,9 @@
 <h4 align="center">A software developer from Portugal 🇵🇹</h4>
   
 <h5 align="center"> 
-  Currently interested in learning GO, you can usually catch me coding at night or surfing gnarly waves in the morning! 
+  Currently learning GO, you can usually catch me coding at night or surfing gnarly waves in the morning! 
   
-  This github is a collection of personal projects and course projects!
+  This github is a collection of personal projects and related course projects!
 </h6>
 
 <h5/>
