@@ -2,7 +2,7 @@
 <h4 align="center">A software engineer from Portugal 🇵🇹</h4>
   
 <h5 align="center"> 
-  Currently learning GO, you can usually catch me coding at night or surfing gnarly waves in the morning! 
+  Sunset waves & fair winds
   
   This github is a collection of personal projects and related course projects!
 </h6>
