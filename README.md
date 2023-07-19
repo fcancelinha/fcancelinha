@@ -9,9 +9,10 @@
 
 <h5/>
 
-<h1></h1>
+
 
 <div align="center" text-align="center">
+  <h2>Tech Stack</h2>
   <span>
      <img alt="x-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" title="Go" />
   </span>
@@ -35,8 +36,5 @@
   </span>
   <span>
     <img alt="x-kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" />
-  </span>
-    <span>
-    <img alt="x-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" title="Linux" />
   </span>
 </div>
