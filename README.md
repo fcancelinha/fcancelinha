@@ -4,7 +4,7 @@
 <h6 align="center"> 
   Sunset waves & fair winds
   
-  This github is a collection of personal projects and related course projects!
+  This github is a collection of personal projects!
 </h6>
 
 <h5/>
