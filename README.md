@@ -1,40 +1,20 @@
-<h1 align="center">Hello World<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px"> !</h1>
-<h4 align="center">I'm a software engineer from Portugal 🇵🇹</h4>
-  
-<h6 align="center"> 
-  Sunset waves & fair winds
-  
-  This github is a collection of personal projects!
-</h6>
 
-<h5/>
+<p align="center">
+  <picture>
+   <img width="150px" height="auto" alt="sailboat" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRmOWs3am1vNnNoaW1hNmxiMmQ4bGJxMGx2MGlqcGhqNmtpczMyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M297gbTjqW4qkSLytx/giphy.gif">
+  </picture>
+</p>
 
+----------------------------------------------------------------------------------------------------------------------------------
 
-
-<div align="center" text-align="center">
-  <h2>Tech Stack</h2>
-  <span>
-     <img alt="x-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" title="Go" />
-  </span>
-  <span>
-    <img alt="x-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" />
-  </span>
-  <span>
-    <img alt="x-denojs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original-wordmark.svg" title="DenoJS" />
-  </span>
-  <span>
-     <img alt="x-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" />
-  </span>
-  <span>
-     <img alt="x-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="TypeScript" />
-  </span>
-  <span>
-    <img alt="x-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript" />
-  </span>
-  <span>
-    <img alt="x-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" />
-  </span>
-  <span>
-    <img alt="x-kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" />
-  </span>
-</div>
+```diff 
+diff --git [ Software Engineer ] lisbon, 🇵🇹 
++ Hello there 👋
++ I like to code 
++ You might catch me sailing or surfing at any given time
+• I'm focused on Go, Typescript, some Lua & C/C++ 🌴
+• I like func programming and fast websites 🌊
+- I'll annoy you about (neo)vim
+@@ working on a nord colorscheme for neovim 👨‍💻  @@
+# Thanks for reading !
+```
