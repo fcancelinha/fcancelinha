@@ -1,10 +1,4 @@
 
-<p align="center">
-  <picture>
-   <img width="150px" alt="sailboat" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRmOWs3am1vNnNoaW1hNmxiMmQ4bGJxMGx2MGlqcGhqNmtpczMyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M297gbTjqW4qkSLytx/giphy.gif">
-  </picture>
-</p>
-
 ----------------------------------------------------------------------------------------------------------------------------------
 
 ```diff 
@@ -18,3 +12,4 @@ diff --git [ Software Engineer ] lisbon, 🇵🇹
 @@ working on a nord colorscheme for neovim 👨‍💻  @@
 # Thanks for reading !
 ```
+----------------------------------------------------------------------------------------------------------------------------------
