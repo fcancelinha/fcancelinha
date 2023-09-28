@@ -6,7 +6,6 @@ diff --git [ Software Engineer @siemens ] lisbon, 🇵🇹
 + Hello there 👋
 + I really like to code 
 + You might catch me sailing or surfing when I'm not coding
-+ also, documentation and testing is important, seriously.
 • I'm focused on Go, Typescript, some Lua & C/C++ 🌴
 • I enjoy func programming and fast websites 🌊
 • Currently reading "Building Modern CLI Application in Go"
