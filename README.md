@@ -9,7 +9,7 @@ diff --git --source lisbon, 🇵🇹
 + You might catch me sailing or surfing when I'm not coding
 • I'm focused on Go, Javascript \ Typescript, some Lua & C/C++ 🌴
 • I enjoy func programming and fast websites 🌊
-• Currently reading "Building Modern CLI Application in Go"
+• Currently reading "Building Modern CLI Applications in Go"
 - I'll annoy you about (neo)vim
 - speaking of which, can you try my ***northern*** colorcheme ?
 @@ working on distributed systems and cloud computing with go 👨‍💻  @@
