@@ -15,4 +15,3 @@ diff --git --source lisbon, 🇵🇹
 @@ working on distributed systems and cloud computing with go 👨‍💻  @@
 # Thanks for reading !
 ```
-----------------------------------------------------------------------------------------------------------------------------------
