@@ -3,7 +3,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------
 
 ```diff 
-diff --git [ Software Engineer @siemens ] lisbon, 🇵🇹 
+diff --git --source lisbon, 🇵🇹 
 + Hello there 👋
 + I really like to code 
 + You might catch me sailing or surfing when I'm not coding
