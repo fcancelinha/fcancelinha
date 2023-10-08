@@ -7,7 +7,7 @@ diff --git --source lisbon, 🇵🇹
 + Hello there 👋
 + I really like to code 
 + You might catch me sailing or surfing when I'm not coding
-• I'm focused on Go, Javascript \ Typescript, some Lua & C/C++ 🌴
+• I'm focused on Go, Javascript \ Typescript, some Swift & C/C++ 🌴
 • I enjoy func programming and fast websites 🌊
 • Currently reading "Building Modern CLI Applications in Go"
 - I'll annoy you about (neo)vim
