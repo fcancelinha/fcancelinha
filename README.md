@@ -3,10 +3,10 @@
 ```diff 
 diff --git --source lisbon, 🇵🇹 
 + Hello there 👋
-+ I really like to code 
-+ You might catch me sailing or surfing when I'm not coding
-• I'm focused on Go, Javascript \ Typescript, some Nodejs & C 🌴
-• I enjoy func programming and fast websites 🌊
++ I really like to code and solve problems 
++ You might catch me sailing or surfing when I'm not programming
+• I'm focused in Go, Javascript | Typescript, and trying new frameworks 🌴
+• I enjoy func programming and distributed systems 🌊
 • Currently reading "Building Modern CLI Applications in Go"
 - I'll annoy you about (neo)vim
 - speaking of which, can you try my ***northern*** colorcheme ?
