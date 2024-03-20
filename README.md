@@ -13,3 +13,9 @@ diff --git --source lisbon, 🇵🇹
 @@ working on distributed systems and cloud computing with go 👨‍💻  @@
 # Thanks for reading !
 ```
+
+```js
+function techStack() {
+  return ["go", "js", "ts", "c", "kubernetes", "docker", "react", "nodejs", "bun"];
+}
+```
