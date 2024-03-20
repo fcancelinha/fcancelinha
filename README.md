@@ -5,9 +5,10 @@ diff --git --source lisbon, 🇵🇹
 + Hello there 👋
 + I really like to code and solve problems 
 + You might catch me sailing or surfing when I'm not programming
-• I'm focused in Go, Javascript | Typescript, and trying new frameworks 🌴
-• I enjoy func programming and distributed systems 🌊
-• Currently reading "Building Modern CLI Applications in Go"
+~ I'm focused in Go, Javascript | Typescript, and trying new frameworks 🌴
+~ I enjoy func programming and distributed systems 🌊
+~ Recently I've been learning how to work in low-level, embedded systems 
+~ Currently reading "Building Modern CLI Applications in Go"
 - I'll annoy you about (neo)vim
 - speaking of which, can you try my ***northern*** colorcheme ?
 @@ working on distributed systems and cloud computing with go 👨‍💻  @@
