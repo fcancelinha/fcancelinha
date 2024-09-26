@@ -6,7 +6,7 @@ diff --git --source lisbon, 🇵🇹
 + I like elegant simple solutions to problems.  
 + You might catch me sailing or surfing when I'm not programming
 ~ I'm currently focused in GO, Scala and Cybersecurity 🌴
-~ I enjoy working with distributed systems 🌊
+~ I really enjoy CLI and TUI interfaces 🌊
 ~ Recently I've been learning how to make more use of bitwise operations.
 ~ Currently reading "Test Driven Development in Go"
 - I'll try to convert you to the cult of (neo)vim.
