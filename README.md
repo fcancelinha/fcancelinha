@@ -3,7 +3,7 @@
 ```diff 
 diff --git --source lisbon, 🇵🇹 
 + Hello there 👋
-+ I like elegant simple solutions to problems.  
++ I like simple solutions to problems.  
 + You might catch me sailing or surfing when I'm not programming
 ~ I'm currently focused in GO, Scala and Cybersecurity 🌴
 ~ I really enjoy CLI and TUI interfaces 🌊
