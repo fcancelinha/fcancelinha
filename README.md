@@ -1,5 +1,5 @@
-
-![Group 105](https://github.com/user-attachments/assets/4bd5c8a3-195c-41f1-930e-5ac826297d00)
+<h1 align="center">Hi :surfer:, I'm Filipe</h1>
+<h3 align="center">An open source enthusiast from Portugal</h3>
 
 ```diff 
 diff --git --source lisbon, 🇵🇹 
