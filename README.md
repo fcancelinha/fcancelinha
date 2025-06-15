@@ -1,8 +1,7 @@
-<h1 align="center">Hi ⛵, I'm Filipe</h1>
 
 ```diff 
 diff --git --source lisbon, 🇵🇹 
-+ Hello there 👋
++ Hello there 👋 I'm Filipe from 🇵🇹
 + I like simple solutions to problems.  
 + You might catch me sailing or surfing when I'm not programming
 ~ I'm currently focused in GO, Swift and Cybersecurity 🌴
