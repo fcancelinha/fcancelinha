@@ -1,16 +1,6 @@
 
 ![Group 105](https://github.com/user-attachments/assets/4bd5c8a3-195c-41f1-930e-5ac826297d00)
 
-```js
-const filipecancelinha = {
-  work: {
-    active: true,
-    position: "Software Engineer II",
-    company: "Siemens A.G."
-  },
-};
-```
-
 ```diff 
 diff --git --source lisbon, 🇵🇹 
 + Hello there 👋
