@@ -1,5 +1,4 @@
 <h1 align="center">Hi ⛵, I'm Filipe</h1>
-<h3 align="center">An open source enthusiast from Portugal</h3>
 
 ```diff 
 diff --git --source lisbon, 🇵🇹 
